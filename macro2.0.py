@@ -37,7 +37,7 @@ def start_macro():
             break
         pyautogui.click(pos[0], pos[1])
         print(f"클릭 위치: {pos[0]}, {pos[1]}")
-        time.sleep(1)  # 클릭 사이에 1초 대기
+        time.sleep(0.25)  # 클릭 사이에 0.25초 대기
 
 def exit_program():
     global program_running
