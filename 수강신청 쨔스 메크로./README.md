@@ -29,4 +29,4 @@ pip install pyautogui keyboard
 4. 언제든지 'esc'키를 눌러 프로그램을 종료할 수 있습니다.
 
 이 프로젝트에 기여하고 싶은 개발자는 Pull Request를 보내거나. 이슈를 등록하여 아이디어를 공유할 수 있습니다.
-insta : pterprize
+insta : 02.011x
